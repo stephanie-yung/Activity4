@@ -1,0 +1,15 @@
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/bin/Debug/net6.0/Activity4
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/bin/Debug/net6.0/Activity4.deps.json
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/bin/Debug/net6.0/Activity4.runtimeconfig.json
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/bin/Debug/net6.0/Activity4.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/bin/Debug/net6.0/ref/Activity4.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/bin/Debug/net6.0/Activity4.pdb
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.csproj.AssemblyReference.cache
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.AssemblyInfoInputs.cache
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.AssemblyInfo.cs
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.csproj.CoreCompileInputs.cache
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/ref/Activity4.dll
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.pdb
+/Users/stephanieyung/Desktop/Intro to APIs/Activity4/obj/Debug/net6.0/Activity4.genruntimeconfig.cache
